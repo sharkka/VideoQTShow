@@ -1,0 +1,9 @@
+{
+    "version" : "0.0.2",
+    "channel_count" : 15,
+    "max_channel_count" : 64,
+    "width" : 1280,
+    "height" : 720,
+
+    "buffer_client_config_path" : "/home/anyz/yanghangjun/bin/client_conf.json"
+}

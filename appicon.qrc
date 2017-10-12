@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>hobot_logo_custom.png</file>
+        <file>logo2.ico</file>
+    </qresource>
+</RCC>
